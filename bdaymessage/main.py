@@ -3,7 +3,7 @@ import bday_message
 
 today = datetime.date.today()
 
-next_birthday = datetime.date(2025,6,26)
+next_birthday = datetime.date(2025,9,24)
 
 days_away =   next_birthday - today
 
