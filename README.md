@@ -11,3 +11,4 @@ Repository for my studies in Python, generally containing small projects and som
 * A Script of a drive thru ordering 
 * A Script using classes of a Bank Account
 * Two Scripts for a birthday couting one being a self made module 
+* A password generator 
